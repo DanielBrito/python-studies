@@ -4,7 +4,7 @@ These examples cover different aspects of several development tools and concepts
 
 ## :rocket: Personal Projects
 
-- [College Dissertation](https://github.com/DanielBrito/monografia)
+- [College Dissertation](https://github.com/DanielBrito/monografia) :mortar_board:
 
 ## ℹ️ Helpful Content
 
