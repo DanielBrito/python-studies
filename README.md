@@ -2,6 +2,15 @@
 
 These experiments cover different tools and concepts related to Python from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
+## :bookmark_tabs: Learning Topics
+
+- Data structures
+- Object Oriented Programming
+- Testing
+- Efficiency
+- Algorithms
+- Visualizing data
+
 ## :rocket: Personal Projects
 
 - [College Dissertation](https://github.com/DanielBrito/monografia) :mortar_board:
