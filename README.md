@@ -8,7 +8,7 @@ These experiments cover different tools and concepts related to Python from my [
 
 ## :books: Books
 
-[Think Python](https://greenteapress.com/wp/think-python/) (Allen Downey)
+- [Think Python](https://greenteapress.com/wp/think-python/) (Allen Downey)
 
 ## :toolbox: Tools
 
