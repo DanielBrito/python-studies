@@ -25,4 +25,4 @@ These experiments cover different tools and concepts related to Python from my [
 
 ## ℹ️ Helpful Content
 
-- [Introduction to Computer Science and Programming in Python](https://github.com/DanielBrito/intro-to-computer-science-python) (MIT)
+- [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (MIT)
