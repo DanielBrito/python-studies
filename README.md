@@ -11,7 +11,7 @@ These experiments cover different tools and concepts related to Python from my [
 - Algorithms
 - Visualizing data
 
-## :rocket: Personal Projects
+## :rocket: Projects
 
 - [College Dissertation](https://github.com/DanielBrito/monografia) :mortar_board:
 
