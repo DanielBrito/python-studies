@@ -1,5 +1,6 @@
 import requests
 import time
+from loguru import logger
 
 def process_request(id, index):
     url = f"<API_URL>"
@@ -12,10 +13,10 @@ def process_request(id, index):
 
     with open('logs.txt', 'a') as file:
         if response.status_code == 200:
-            print(f'{index} Successfull request for id {id}')
+            logger.info(f'{index} Successfull request for id {id}')
             file.write(f"{index} Successfull request for id {id}\n")
         else:
-            print(f'{index} Request failed for id {id}: {response.text}')
+            logger.error(f'{index} Request failed for id {id}: {response.text}')
             file.write(f"{index} Request failed for id {id}: {response.text}\n")
 
 def main():
