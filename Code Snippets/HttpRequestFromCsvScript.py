@@ -14,11 +14,11 @@ def get_access_token(username, password):
     try:
         response = requests.post(url, headers=headers, json=data)
         response.raise_for_status()
+
         return response.json().get('access_token')
     except requests.exceptions.RequestException as e:
         logger.error(f"Failed to get access token: {e}")
         return None
-    
 
 def process_request(id, name, index):
     url = f"<API_URL>"
